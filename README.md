@@ -1,7 +1,7 @@
 # DAPT-MLM-BERT
  
  
-Based on <a href="[url](https://arxiv.org/pdf/2004.10964.pdf)">Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks</a> 
+Based on <a href="https://arxiv.org/pdf/2004.10964.pdf">Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks</a> 
  
 Domain-adaptive pre-training is the process of tailoring a pre-trained model to the domain of a target classification task. This is done by submitting the model to an additional round of pre-training on a large unlabeled domain-specific corpus. 
  
