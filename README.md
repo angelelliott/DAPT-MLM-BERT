@@ -12,6 +12,10 @@ Pre-training Corpus: "profanitiesdatasetprocessed.csv"
 <ul>
   <li>5.5 M tweets in Spanish, each tweet contains at least one common Spanish profanity.</li>
   <li>Scraped using snscrape and Twitter API.</li>
-  <li>Idea: 1) BERT pre-trained on a general domain doesn't understand Twitter language. 2) Misogynistic tweets usually have slurs.</li>
+  <li>Idea: 
+   <ol>
+   <li>BERT pre-trained on a general domain doesn't understand Twitter language.</li>
+   <li>Misogynistic tweets usually have slurs.</li>
+   </ol>
 </ul>
 
