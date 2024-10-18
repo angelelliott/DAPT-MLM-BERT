@@ -22,4 +22,4 @@ Pre-training Corpus: profanitiesdatasetprocessed.csv
 Fine-tuning Corpus: IberEval 2018 Automatic Misogyny Identification (AMI) dataset. 
 
 
-This is just the code that I used for pretraining, not the model itself. I ran the model on a Docker container and adjusted the following hyperparameters: weight decay (0,0.1, 0.01, 0.001), epochs (1-4), batch size (16,32,64,128), optimizer (AdamW, SGD, Adadelta, Adagrad).
+I ran this model on a Docker container and adjusted the following hyperparameters: weight decay (0,0.1, 0.01, 0.001), epochs (1-4), batch size (16,32,64,128), optimizer (AdamW, SGD, Adadelta, Adagrad).
